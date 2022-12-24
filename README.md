@@ -2,7 +2,7 @@
 
 <p align="center"><img src="https://raw.githubusercontent.com/SamuelSchwab/prime-spirals/main/plot.png"/></p>
 
-Plots (x,x) in polar coordinates, where x are primes and positive integers.
+Plots (x,x) in polar coordinates, where x are primes and positive integers. TEST.
 
 ### Arguments
     -n                       Generate n numbers to plot (default: 1000)
